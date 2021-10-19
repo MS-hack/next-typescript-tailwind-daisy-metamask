@@ -1,6 +1,6 @@
 {
-  "name": "selfid-fluence-login",
-  "version": "0.1.1",
+  "name": "next-typescript-tailwind-daisy-metamask",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "pre": "npm run-script build",
